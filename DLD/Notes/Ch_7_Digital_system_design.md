@@ -31,7 +31,7 @@ that performs no logic operation and its output simply replicates the input sign
 ![tri-state_buffer](https://www.sciencedirect.com/topics/computer-science/tristate-buffer)
 
 
-``vhdl
+```vhdl
 LIBRARY IEEE;
 USE IEEE.STD_LOGIC_1164.ALL
 
